@@ -1,0 +1,1 @@
+clear allclcx0 = -0,5;tol = 0,001;itermax = 20;erro = 1iter = 1while erro > tol iter < iertmax	g(x) = -srqt(2+x0);	if erro > tol		X0 = g(x)	end	iter = iter + 1end disp('raiz='), disp g(x)disp('numero de iterações'), disp(iter)
